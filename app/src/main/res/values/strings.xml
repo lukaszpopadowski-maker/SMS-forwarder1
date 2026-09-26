@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Przekaźnik SMS</string>
+    <string name="a11y_label">Przekaźnik SMS – automatyczne wysyłanie</string>
+    <string name="a11y_desc">Pozwala aplikacji Przekaźnik SMS automatycznie wybrać grupę i nacisnąć Wyślij w WhatsApp lub Viber, gdy przyjdzie SMS pasujący do reguły. Usługa działa tylko w aplikacjach WhatsApp, WhatsApp Business i Viber.</string>
+</resources>
